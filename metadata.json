@@ -1,0 +1,5 @@
+{
+  "name": "AI Photo Critic",
+  "description": "Professional photography critique powered by Gemini. Upload high-res photos for instant feedback on composition, lighting, and technique.",
+  "requestFramePermissions": []
+}
